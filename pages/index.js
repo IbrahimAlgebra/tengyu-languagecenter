@@ -50,7 +50,7 @@ export default function Home() {
 
   return (
     <div
-      className={`relative max-w-6xl mx-auto ${
+      className={`relative p-5 max-w-6xl mx-auto ${
         data.showCursor && "cursor-none"
       }`}
     >
