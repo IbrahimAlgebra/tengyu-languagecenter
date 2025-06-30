@@ -1,0 +1,125 @@
+{
+  "name": "Tengyu",
+  "headerTaglineOne": "to Kampung Inggris LC",
+  "headerTaglineTwo": "The first company that believed in me",
+  "headerTaglineThree": "Leaving hurts,",
+  "headerTaglineFour": " but growth is calling.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chetanverma16"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/realchetanverma"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "My Beloved Team",
+      "description": "Markunting 2025. Please play `Wherever You Are | One Ok Rock` every morning. Okayyy??",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751305214/memories-1_diyamo.webp",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "title": "My Director",
+      "description": "Who believed in me. Thank you Mr. Azlan",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751305516/IMG_5106_exxoro.webp",
+      "url": ""
+    },
+    {
+      "id": "5",
+      "title": "My Manager",
+      "description": "Miss Iva I'm sorry 😭 for choosing this photo, we never even took a picture together 😭",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751307384/Selling_team._I_deeply_regret_that_we_didn_t_have_the_chance_to_take_a_photo_together._2_unrw8i.webp",
+      "url": ""
+    },
+    {
+      "id": "3",
+      "title": "Branding Team",
+      "description": "as well as Mas Febri, Mas Rayyan, Mbak Saf",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751306120/d2d065f8-36e1-4027-bd32-d810810cae87_gwo9vg.webp",
+      "url": ""
+    },
+    {
+      "id": "4",
+      "title": "Selling Team",
+      "description": "All of you I can't mention, I'm sorry",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751306120/Selling_team._I_deeply_regret_that_we_didn_t_have_the_chance_to_take_a_photo_together._xf4cxo.webp",
+      "url": ""
+    },
+    {
+      "id": "6",
+      "title": "IT Team",
+      "description": "Mas Nasrul, where are youuuuu????>",
+      "imageSrc": "https://res.cloudinary.com/dkde3c8zl/image/upload/v1751307384/Selling_team._I_deeply_regret_that_we_didn_t_have_the_chance_to_take_a_photo_together._1_pvv1fc.webp",
+      "url": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I feel grateful and happy because I have been accepted at a new workplace, but at the same time, I feel deeply sad to leave this place, especially all of you—my team, my friends, my second family in LC",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
