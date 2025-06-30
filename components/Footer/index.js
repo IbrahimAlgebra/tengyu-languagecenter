@@ -20,7 +20,7 @@ const Footer = ({}) => {
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made With ❤ by{" "}
-        <Link href="https://www.chisnawakatta.web.id/about">
+        <Link href="https://www.linkedin.com/in/chisna-ad">
           <a className="underline underline-offset-1">Chisna Wakatta</a>
         </Link>
       </h1>
