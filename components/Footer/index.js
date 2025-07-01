@@ -18,6 +18,24 @@ const Footer = ({}) => {
           </div>
         </div>
       </div>
+
+      {/* masukkan video disini */}
+      <div className="mt-10 p-2 laptop:p-0 flex justify-start">
+        <video
+          controls
+          preload="none"
+          loading="lazy"
+          poster="https://res.cloudinary.com/dkde3c8zl/video/upload/so_1/v1751332252/copy_E0F6AF18-E43E-434F-AC7F-5A4B362F26A8_zdw0rh.jpg"
+          className="w-full max-w-[600px] rounded-xl shadow-lg"
+        >
+          <source
+            src="https://res.cloudinary.com/dkde3c8zl/video/upload/v1751332252/copy_E0F6AF18-E43E-434F-AC7F-5A4B362F26A8_zdw0rh.mov"
+            type="video/mp4"
+          />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
         Made With ❤ by{" "}
         <Link href="https://www.linkedin.com/in/chisna-ad">
